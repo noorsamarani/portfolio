@@ -38,8 +38,8 @@ body {
 }
 
 .active{
-color: #22252A;
-font-weight: 700;
+  color: #22252A;
+  font-weight: 700;
 }
 
 nav {
@@ -96,8 +96,8 @@ nav {
 }
 
 .card-img-top {
-    border-top-left-radius: 0;
-    border-top-right-radius: 0;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
 }
 
 .btn {
@@ -159,7 +159,7 @@ h5 {
 p {
   font-family: 'Josefin Sans', sans-serif;
   font-weight: 400;
-    font-size: 20px;
+  font-size: 20px;
 }
 
 
